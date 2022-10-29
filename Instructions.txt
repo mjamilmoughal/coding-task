@@ -1,0 +1,12 @@
+Hi,
+
+First open the project in IDE (VS Code in my case).
+Run npm install from root directory.
+Goto app.ts file and update line 10 and 11 accordingly.
+
+Run npm start to run the application.
+
+
+Thank you
+
+------ Happy Coding ------
